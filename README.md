@@ -1,3 +1,3 @@
-# Practice
+# Project
 
 Contains all practice code
